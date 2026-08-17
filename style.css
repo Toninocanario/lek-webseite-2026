@@ -237,3 +237,11 @@ main {
     grid-template-columns: 1fr;
   }
 }
+
+#neu {
+  margin-top: 30px;
+  padding: 20px;
+  border-left: 6px solid #E8734A;
+  border-radius: 8px;
+  background-color: #FFFFFF;
+}
